@@ -18,8 +18,8 @@ let mins = 00;
 let checkNoon = hour === 12 && mins === 00;
 let checkAfternoon = hour > 12 || mins === 00;
 
-let me = "Ezinne";
-let isNotMe = me != "Ezinne";
+let me = "Victoria";
+let isNotMe = me != "Victoria";
 
 let c = 1 & 2;
 let d = 2 << 2;
